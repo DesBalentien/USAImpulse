@@ -127,11 +127,11 @@
         "header-0"
       ],
       "settings": {
-        "main_menu_link_list": "",
+        "main_menu_link_list": "main-menu",
         "hover_menu": true,
         "mega_menu_images": true,
         "main_menu_alignment": "center",
-        "header_style": "normal",
+        "header_style": "sticky",
         "sticky_index": false,
         "sticky_collection": false,
         "toolbar_menu": "",
