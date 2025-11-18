@@ -113,7 +113,7 @@
         "liquid_DhcEHK": {
           "type": "liquid",
           "settings": {
-            "code": "<h2>WINTER SALE – UP TO 60% OFF\n</h2>Winter has arrived at Madison & Bloom! 🍂! <p>To celebrate the new season, we’re bringing you exclusive discounts of up to 60% off. Refresh your wardrobe with timeless pieces designed for comfort, elegance, and effortless everyday style.<p>\n\n<p>These seasonal deals are only here for a limited time — once they’re gone, they won’t be back.<p>\n\nShop now and step into winter with style.<p>\n\n— Madison & Bloom </p>",
+            "code": "<h2>WINTER SALE – UP TO 60% OFF\n</h2>Winter has arrived at Madison & Bloom! <p>To celebrate the new season, we’re bringing you exclusive discounts of up to 60% off. Refresh your wardrobe with timeless pieces designed for comfort, elegance, and effortless everyday style.<p>\n\n<p>These seasonal deals are only here for a limited time — once they’re gone, they won’t be back.<p>\n\nShop now and step into winter with style.<p>\n\n— Madison & Bloom </p>",
             "width": "50%",
             "alignment": "center"
           }
@@ -145,7 +145,7 @@
           "settings": {
             "icon": "truck",
             "title": "FREE DELIVERY",
-            "text": "<p>We offer free shipping incl. Track & Trace to the United Kingdom!</p>"
+            "text": "<p>We offer free shipping incl. Track & Trace to the United States of America.</p>"
           }
         },
         "text_block_wqnjy6": {
@@ -153,7 +153,7 @@
           "settings": {
             "icon": "shield",
             "title": "SECURE PAYMENT",
-            "text": "<p>At <strong>[SHOP NAAM]</strong>, you can securely and conveniently pay for your order using credit card.</p>"
+            "text": "<p>At <strong>Madison & Bloom</strong>, you can securely and conveniently pay for your order using credit card.</p>"
           }
         }
       },
