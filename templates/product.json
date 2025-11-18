@@ -62,7 +62,7 @@
         "custom_XFhatC": {
           "type": "custom",
           "settings": {
-            "code": "<!-- Plaats deze linkjes eenmalig in de <head> van je theme -->\n<link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200&icon_names=undo\" />\n<link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200&icon_names=shoppingmode\" />\n\n<div class=\"cus-gua-div\" style=\"margin:20px 0; display:flex; flex-direction:column; gap:10px;\">\n\n  <!-- Free Shipping with UPS -->\n  <div class=\"gua-inner\" style=\"display:flex; align-items:center; gap:8px;\">\n    <div class=\"gua-img-div\">\n      <img class=\"cus-gua-img\" src=\"https://img.icons8.com/?size=256&id=fW4ZqxlH5gWy&format=png\" style=\"width:21px; height:21px;\">\n    </div>\n    <p class=\"cus-gua-p\" style=\"line-height:21px; color:#000000; margin:0; font-size:14px;\">\n      <b>Free Shipping</b> with Royal Mail\n    </p>\n  </div>\n\n   <!-- 30-Day Money Back -->\n  <div class=\"gua-inner\" style=\"display:flex; align-items:center; gap:8px;\">\n    <div class=\"gua-img-div\">\n      <img class=\"cus-gua-img\" src=\"https://static.thenounproject.com/png/2111673-200.png\" style=\"width:21px; height:21px;\">\n    </div>\n    <p class=\"cus-gua-p\" style=\"line-height:21px; color:#000000; margin:0; font-size:14px;\">\n      30-Day <b>Money-Back Guarantee</b>\n    </p>\n  </div>\n\n  <!-- Discounts -->\n  <div class=\"gua-inner\" style=\"display:flex; align-items:center; gap:8px;\">\n    <span class=\"material-symbols-outlined\" style=\"font-size:21px; line-height:21px;\">shoppingmode</span>\n    <p class=\"cus-gua-p\" style=\"line-height:21px; color:#000000; margin:0; font-size:14px;\">\n      10% off&nbsp;for 2 items, 15% off for 3+ items\n    </p>\n  </div>\n\n</div>"
+            "code": "<!-- Plaats deze linkjes eenmalig in de <head> van je theme -->\n<link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200&icon_names=undo\" />\n<link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200&icon_names=shoppingmode\" />\n\n<div class=\"cus-gua-div\" style=\"margin:20px 0; display:flex; flex-direction:column; gap:10px;\">\n\n  <!-- Free Shipping with UPS -->\n  <div class=\"gua-inner\" style=\"display:flex; align-items:center; gap:8px;\">\n    <div class=\"gua-img-div\">\n      <img class=\"cus-gua-img\" src=\"https://img.icons8.com/?size=256&id=fW4ZqxlH5gWy&format=png\" style=\"width:21px; height:21px;\">\n    </div>\n    <p class=\"cus-gua-p\" style=\"line-height:21px; color:#000000; margin:0; font-size:14px;\">\n      <b>Free Shipping</b> with UPS\n    </p>\n  </div>\n\n   <!-- 30-Day Money Back -->\n  <div class=\"gua-inner\" style=\"display:flex; align-items:center; gap:8px;\">\n    <div class=\"gua-img-div\">\n      <img class=\"cus-gua-img\" src=\"https://static.thenounproject.com/png/2111673-200.png\" style=\"width:21px; height:21px;\">\n    </div>\n    <p class=\"cus-gua-p\" style=\"line-height:21px; color:#000000; margin:0; font-size:14px;\">\n      30-Day <b>Money-Back Guarantee</b>\n    </p>\n  </div>\n\n  <!-- Discounts -->\n  <div class=\"gua-inner\" style=\"display:flex; align-items:center; gap:8px;\">\n    <span class=\"material-symbols-outlined\" style=\"font-size:21px; line-height:21px;\">shoppingmode</span>\n    <p class=\"cus-gua-p\" style=\"line-height:21px; color:#000000; margin:0; font-size:14px;\">\n      10% off&nbsp;for 2 items, 15% off for 3+ items\n    </p>\n  </div>\n\n</div>"
           }
         },
         "custom_C8JCa3": {
@@ -556,8 +556,8 @@
         "image_mask": "none",
         "image2_mask": "none",
         "subtitle": "",
-        "title": "Meet Pieter & Lisa",
-        "text": "<p>At <strong>Lisa & Peter London</strong>, everything starts with <strong>passion for fashion</strong>. From a young age, Pieter and Lisa shared a lifelong love for style and creativity. Both studied <strong>Fashion Design and Business</strong> before building their careers in the industry. After working for different companies, they came together as a couple and decided to create something of their own.</p><p>Now, more than <strong>10 years later</strong>, they run their store with countless happy clients and inspiring projects. Their mission has always been clear: to stay ahead of <strong>new trends</strong>, deliver <strong>high-quality pieces</strong>, and offer a truly <strong>personal approach</strong>. For Pieter and Lisa, it’s about more than fashion — it’s about making every customer feel seen, valued, and stylish in their own unique way.</p>",
+        "title": "Meet The Founders",
+        "text": "<p>At <strong>Madison & Bloom</strong>, everything starts with <strong>passion for fashion</strong>. From a young age, Madison and Bloom shared a lifelong love for style and creativity. Both studied <strong>Fashion Design and Business</strong> before building their careers in the industry. After working for different companies, they came together as business partners and decided to create something of their own.</p><p>Now, more than <strong>10 years later</strong>, they run their store with countless happy clients and inspiring projects. Their mission has always been clear: to stay ahead of <strong>new trends</strong>, deliver <strong>high-quality pieces</strong>, and offer a truly <strong>personal approach</strong>. For Madison and Bloom, it’s about more than fashion — it’s about making every customer feel seen, valued, and stylish in their own unique way.</p>",
         "button_label": "",
         "button_link": "",
         "button_style": "primary",
@@ -745,7 +745,7 @@
           "settings": {
             "icon": "truck",
             "title": "FREE DELIVERY",
-            "text": "<p>We offer <strong>free shipping</strong> incl. Track & Trace to the United Kingdom!</p>"
+            "text": "<p>We offer <strong>free shipping</strong> incl. Track & Trace to the United States of America.</p>"
           }
         },
         "text_block_pgeXmX": {
@@ -753,7 +753,7 @@
           "settings": {
             "icon": "shield",
             "title": "SECURE PAYMENT",
-            "text": "<p>At <strong>Lisa & Peter London</strong>, you can securely and conveniently pay for your order using credit card.</p>"
+            "text": "<p>At <strong>Madison & Bloom</strong>, you can securely and conveniently pay for your order using credit card.</p>"
           }
         }
       },
