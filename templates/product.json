@@ -553,6 +553,7 @@
       "type": "text-and-image",
       "name": "t:sections.text-and-image.presets.image_with_text.name",
       "settings": {
+        "image": "shopify://shop_images/a-modern-editorial-photograph-of-two-sty_eBvDYfmoTF-gQ6ysTpdydA_NEKfI2sTSYKUOGpQ7SyC6A.png",
         "image_mask": "none",
         "image2_mask": "none",
         "subtitle": "",
@@ -576,6 +577,7 @@
         "image_raTfgL": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/ChatGPT_Image_18_nov_2025_11_14_33.png",
             "link": "",
             "width": "50%",
             "alignment": "center"
