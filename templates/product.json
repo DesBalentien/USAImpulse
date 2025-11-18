@@ -586,7 +586,7 @@
         "liquid_yeGTF4": {
           "type": "liquid",
           "settings": {
-            "code": "<h2>Money-Back Guarantee</h2>\n<p>\n  I truly believe in the quality of our clothing – and I’m confident you’ll love it too. \n  That’s why we offer a hassle-free 30-day money-back guarantee.\n</p>\n<p>\n  If you’re not completely satisfied with your purchase, simply return it within 30 days \n  and receive a full refund – no questions asked.\n</p>",
+            "code": "<h2>Money-Back Guarantee</h2>\n<p>\n  We truly believe in the quality of our clothing – and We're confident you’ll love it too. \n  That’s why we offer a hassle-free 30-day money-back guarantee.\n</p>\n<p>\n  If you’re not completely satisfied with your purchase, simply return it within 30 days \n  and receive a full refund – no questions asked.\n</p>",
             "width": "50%",
             "alignment": "center"
           }
