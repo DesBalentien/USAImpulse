@@ -174,6 +174,7 @@
           "settings": {
             "icon": "5-stars",
             "testimonial": "<p>“The order arrived beautifully packaged and in perfect condition. You can really feel the quality of the fabric.”</p>",
+            "image": "shopify://shop_images/1_33efe1cf-1988-4486-9eb5-c46c4a8516e4.png",
             "author": "Emma J.",
             "author_info": "California – 12 hours ago"
           }
@@ -183,7 +184,7 @@
           "settings": {
             "icon": "4-stars",
             "testimonial": "<p>“Great service from Madison & Bloom. The clothes fit perfectly and the personal touch really makes a difference.”</p>",
-            "image": "shopify://shop_images/1.png",
+            "image": "shopify://shop_images/2.png",
             "author": "Claire W.",
             "author_info": "New York – 1 day ago"
           }
@@ -193,7 +194,7 @@
           "settings": {
             "icon": "4-stars",
             "testimonial": "<p>“I’m very impressed with the attention to detail. Everything came neatly wrapped, smelling fresh and ready to wear.”</p>",
-            "image": "shopify://shop_images/3.png",
+            "image": "shopify://shop_images/3_e469abbc-9caa-4458-8b8c-016310cd9317.png",
             "author": "Sarah M.",
             "author_info": "Connecticut – 2 days ago"
           }
@@ -203,7 +204,7 @@
           "settings": {
             "icon": "5-stars",
             "testimonial": "<p>“Fantastic experience! The items are high quality and you can tell the store genuinely cares about its customers.”</p>",
-            "image": "shopify://shop_images/4.png",
+            "image": "shopify://shop_images/4_180d26ca-451b-46ed-be6f-066075c011ba.png",
             "author": "Olivia R.",
             "author_info": "New Jersey – 3 days ago"
           }
@@ -213,6 +214,7 @@
           "settings": {
             "icon": "5-stars",
             "testimonial": "<p>“My package arrived safely and beautifully presented. Madison & Bloom make online shopping feel truly personal.”</p>",
+            "image": "shopify://shop_images/5.png",
             "author": "Helen P.",
             "author_info": "New York– 5 days ago"
           }
