@@ -105,6 +105,7 @@
         "image_YkgVKP": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/deny-hill-TQusE5qrrL0-unsplash_1.jpg",
             "link": "",
             "width": "33%",
             "alignment": "center"
