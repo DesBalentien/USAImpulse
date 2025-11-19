@@ -816,6 +816,26 @@
         "section_radius": 0,
         "lazy": false
       }
+    },
+    "1763543084f9fbf5d7": {
+      "type": "apps",
+      "blocks": {
+        "kiwi_size_chart_recommender_kiwi_sizing_XcWytL": {
+          "type": "shopify://apps/kiwi-size-chart-recommender/blocks/kiwiSizing/b7369922-bf15-44ce-a121-a22a8fcbc4b0",
+          "settings": {
+            "product": "{{product}}",
+            "waitForElementSelector": "",
+            "waitForElementDelay": 5
+          }
+        }
+      },
+      "block_order": [
+        "kiwi_size_chart_recommender_kiwi_sizing_XcWytL"
+      ],
+      "settings": {
+        "full_width": false,
+        "space_around": true
+      }
     }
   },
   "order": [
@@ -836,6 +856,7 @@
     "testimonials_XJpjRp",
     "text_with_icons_Q8WN8G",
     "1759238496adc47e65",
-    "ss_social_proof_TGDf48"
+    "ss_social_proof_TGDf48",
+    "1763543084f9fbf5d7"
   ]
 }
