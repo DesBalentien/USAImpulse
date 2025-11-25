@@ -49,6 +49,7 @@
       "blocks": {
         "heading": {
           "type": "heading",
+          "disabled": true,
           "settings": {
             "title": "10 Year Anniversary Sale + Black Friday Sale"
           }
