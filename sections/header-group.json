@@ -116,8 +116,8 @@
         "header-0": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/Madison_And_Bloom_Header_Logo_Mobile_Black.png",
-            "logo-inverted": "shopify://shop_images/Madison_and_bloom_Logo_header_mobile_white.png",
+            "logo": "shopify://shop_images/nieuw_logo_Madison_Bloom.png",
+            "logo-inverted": "shopify://shop_images/wit_niew_logo_madison_and_bloom.png",
             "desktop_logo_width": 150,
             "mobile_logo_width": 150
           }
