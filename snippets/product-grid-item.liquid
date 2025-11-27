@@ -60,14 +60,14 @@ Arguments
       {%- endunless -%}
      
         <div class="grid-product__tag grid-product__tag--sale">
-         {% if product.compare_at_price_max > product.price_max %}
-  {% assign save_percentage = 
-    100 | minus: product.price_max | times: 100 | divided_by: product.compare_at_price_max 
-  %}
-  <span class="save-percentage">
-     -{{ save_percentage | round }}%
+      {% if product.compare_at_price_max > product.price_max %}
+  {% assign discount_amount = product.compare_at_price_max | minus: product.price_max %}
+  {% assign save_percentage = discount_amount | times: 100 | divided_by: product.compare_at_price_max %}
+  <span class="product-badge">
+    -{{ save_percentage | round }}%
   </span>
 {% endif %}
+
 
         </div>
     {%- endif -%}
