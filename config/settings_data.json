@@ -124,14 +124,14 @@
         "disabled": false,
         "settings": {}
       },
-      "15557474716127144420": {
-        "type": "shopify://apps/kaching-bundles/blocks/app-embed-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
-        "disabled": false,
-        "settings": {}
-      },
       "10312807297210203588": {
         "type": "shopify://apps/aftersell-by-rokt/blocks/utm-triggers/509ec35d-0632-4dfc-a105-fa799cd9d149",
         "disabled": false,
+        "settings": {}
+      },
+      "15557474716127144420": {
+        "type": "shopify://apps/kaching-bundles/blocks/app-embed-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
+        "disabled": true,
         "settings": {}
       }
     }
