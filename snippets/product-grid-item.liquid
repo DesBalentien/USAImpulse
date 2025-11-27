@@ -60,14 +60,7 @@ Arguments
       {%- endunless -%}
      
         <div class="grid-product__tag grid-product__tag--sale">
-     {%- assign v = product.selected_or_first_available_variant -%}
-
-{% if v and v.compare_at_price and v.compare_at_price > v.price %}
-  {% assign discount_amount = v.compare_at_price | minus: v.price %}
-  {% assign save_percentage = discount_amount | times: 100 | divided_by: v.compare_at_price %}
-  <span class="save-percentage">Save {{ save_percentage | round }}%</span>
-{% endif %}
-
+     
 
 
         </div>
