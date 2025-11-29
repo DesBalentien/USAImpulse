@@ -617,13 +617,45 @@
         "image_raTfgL": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/ChatGPT_Image_18_nov_2025_11_14_33.png",
+            "image": "shopify://shop_images/ChatGPT_Image_29_nov_2025_13_46_18.png",
             "link": "",
             "width": "50%",
             "alignment": "center"
           }
         },
         "liquid_yeGTF4": {
+          "type": "liquid",
+          "settings": {
+            "code": "<h2>HANDCRAFTED WITH LOVE</h2>\n<p>\nEvery pair at Madison & Bloom is crafted with the same care and attention we’d want for our own wardrobes. From the first sketch to the final stitch, we focus on soft materials, supportive designs, and timeless silhouettes that you’ll love wearing day after day.\n</p>\n<p>\n Inspired by the women around us – mothers, daughters, sisters, and friends – we design shoes and clothing that help you feel confident, comfortable, and beautifully yourself at every stage of life.\n</p>\n\nFor us, it’s never “just” a product.\n\nIt’s a piece of your everyday story – and we’re honored to be part of it\n</p>",
+            "width": "50%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "image_raTfgL",
+        "liquid_yeGTF4"
+      ],
+      "name": "t:sections.advanced-content.presets.custom_content.name",
+      "settings": {
+        "full_width": false,
+        "space_around": true,
+        "lazyload_images": true
+      }
+    },
+    "advanced_content_7Jr7ER": {
+      "type": "advanced-content",
+      "blocks": {
+        "image_GibpJ6": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/ChatGPT_Image_29_nov_2025_14_02_24.png",
+            "link": "",
+            "width": "50%",
+            "alignment": "center"
+          }
+        },
+        "liquid_fWG4UA": {
           "type": "liquid",
           "settings": {
             "code": "<h2>Money-Back Guarantee</h2>\n<p>\n  We truly believe in the quality of our clothing – and We're confident you’ll love it too. \n  That’s why we offer a hassle-free 30-day money-back guarantee.\n</p>\n<p>\n  If you’re not completely satisfied with your purchase, simply return it within 30 days \n  and receive a full refund – no questions asked.\n</p>",
@@ -633,8 +665,8 @@
         }
       },
       "block_order": [
-        "image_raTfgL",
-        "liquid_yeGTF4"
+        "image_GibpJ6",
+        "liquid_fWG4UA"
       ],
       "name": "t:sections.advanced-content.presets.custom_content.name",
       "settings": {
@@ -888,6 +920,7 @@
     "testimonials_slider_dKBxHe",
     "text_and_image_yNYQNN",
     "advanced_content_rQtHGM",
+    "advanced_content_7Jr7ER",
     "sub",
     "product-recommendations",
     "recently-viewed",
