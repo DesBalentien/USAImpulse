@@ -168,6 +168,7 @@
         "selluxe_followers_T9XW6r": {
           "type": "selluxe_followers",
           "settings": {
+            "profile_picture_1": "shopify://shop_images/2.avif",
             "reviewers": "<strong>Rachel K.</strong>",
             "show_verified": true,
             "add_text": "and <strong>3.1k+</strong> other women love <strong>Madison & Bloom</strong>",
