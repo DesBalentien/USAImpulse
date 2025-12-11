@@ -75,6 +75,7 @@
         },
         "text_qCeRRG": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "CYBER WEEK SALE: UP TO 70% OFF"
           }
