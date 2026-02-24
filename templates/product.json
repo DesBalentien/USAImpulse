@@ -636,6 +636,7 @@
         "image_raTfgL",
         "liquid_yeGTF4"
       ],
+      "disabled": true,
       "name": "t:sections.advanced-content.presets.custom_content.name",
       "settings": {
         "full_width": false,
@@ -668,6 +669,7 @@
         "image_GibpJ6",
         "liquid_fWG4UA"
       ],
+      "disabled": true,
       "name": "t:sections.advanced-content.presets.custom_content.name",
       "settings": {
         "full_width": false,
@@ -895,7 +897,7 @@
         "kiwi_size_chart_recommender_kiwi_sizing_XcWytL": {
           "type": "shopify://apps/kiwi-size-chart-recommender/blocks/kiwiSizing/b7369922-bf15-44ce-a121-a22a8fcbc4b0",
           "settings": {
-            "product": "{{product}}",
+            "fallbackToBlockPosition": false,
             "waitForElementSelector": "",
             "waitForElementDelay": 5
           }
