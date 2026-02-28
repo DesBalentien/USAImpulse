@@ -54,11 +54,19 @@
             "enlarge_text": true,
             "text": "<ul><li><strong>10 % EXTRA ON 2 ITEMS</strong></li><li><strong>15 % EXTRA ON 3 ITEMS</strong></li><li><strong>20 % EXTRA ON 4 ITEMS</strong></li><li><strong>25 % EXTRA ON 5+ ITEMS<br/><br/></strong></li></ul>"
           }
+        },
+        "text_PHTgRz": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Discounts apply automatically at checkout. Mix and match any items from our Anniversary Sale collections.<strong><br/><br/></strong></p>"
+          }
         }
       },
       "block_order": [
         "heading_nbYJfH",
-        "text_xcEkHe"
+        "text_xcEkHe",
+        "text_PHTgRz"
       ],
       "name": "t:sections.rich-text.presets.rich_text.name",
       "settings": {
