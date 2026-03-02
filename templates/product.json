@@ -279,7 +279,7 @@
           "type": "testimonial",
           "settings": {
             "icon": "4-stars",
-            "testimonial": "<p>“Great service from Madison & Bloom. The clothes fit perfectly and the personal touch really makes a difference.”</p>",
+            "testimonial": "<p>“Great service from Madison & Bloom.<br/>Customer support responded quickly and handled my questions right away.</p><p>The clothes fit perfectly, and the personal touch truly makes a difference.<br/>You can tell they care about their customers.”</p>",
             "image": "shopify://shop_images/2.png",
             "author": "Rachel K.",
             "author_info": "New York – 1 day ago"
